@@ -1,0 +1,12 @@
+{
+  "data": {
+    "character": {
+      "id": "2",
+      "name": "henok",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "gender": "Male"
+    }
+  }
+}
